@@ -4,52 +4,52 @@ TextureImporter:
   internalIDToNameTable:
   - first:
       213: 1757168063971477599
-    second: Players1_1
+    second: Player1_1
   - first:
       213: 7255854300219104043
-    second: Players1_2
+    second: Player1_2
   - first:
       213: -6127215198058392024
-    second: Players1_3
+    second: Player1_3
   - first:
       213: 5770437819054901188
-    second: Players1_4
+    second: Player1_4
   - first:
       213: -4906125199742805290
-    second: Players1_5
+    second: Player1_5
   - first:
       213: 6490518340326617606
-    second: Players1_6
+    second: Player1_6
   - first:
       213: 4873397878994576889
-    second: Players1_7
+    second: Player1_7
   - first:
       213: 4552264578813294707
-    second: Players1_8
+    second: Player1_8
   - first:
       213: -8732285999409787101
-    second: Players2_1
+    second: Player2_1
   - first:
       213: 7116009729732391868
-    second: Players2_2
+    second: Player2_2
   - first:
       213: -3762027003936843820
-    second: Players2_3
+    second: Player2_3
   - first:
       213: -3733097830291599174
-    second: Players2_4
+    second: Player2_4
   - first:
       213: 4037833166851039263
-    second: Players2_5
+    second: Player2_5
   - first:
       213: 68067404465400748
-    second: Players2_6
+    second: Player2_6
   - first:
       213: 5489095558992561210
-    second: Players2_7
+    second: Player2_7
   - first:
       213: 8716251932417823705
-    second: Players2_8
+    second: Player2_8
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -139,7 +139,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Players1_1
+      name: Player1_1
       rect:
         serializedVersion: 2
         x: 11
@@ -160,7 +160,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Players1_2
+      name: Player1_2
       rect:
         serializedVersion: 2
         x: 125
@@ -181,7 +181,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Players1_3
+      name: Player1_3
       rect:
         serializedVersion: 2
         x: 254
@@ -202,7 +202,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Players1_4
+      name: Player1_4
       rect:
         serializedVersion: 2
         x: 419
@@ -223,7 +223,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Players1_5
+      name: Player1_5
       rect:
         serializedVersion: 2
         x: 546
@@ -244,11 +244,11 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Players1_6
+      name: Player1_6
       rect:
         serializedVersion: 2
-        x: 668
-        y: 251
+        x: 667
+        y: 252
         width: 112
         height: 220
       alignment: 0
@@ -265,7 +265,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Players1_7
+      name: Player1_7
       rect:
         serializedVersion: 2
         x: 805
@@ -286,7 +286,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Players1_8
+      name: Player1_8
       rect:
         serializedVersion: 2
         x: 961
@@ -307,7 +307,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Players2_1
+      name: Player2_1
       rect:
         serializedVersion: 2
         x: 23
@@ -328,7 +328,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Players2_2
+      name: Player2_2
       rect:
         serializedVersion: 2
         x: 122
@@ -349,7 +349,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Players2_3
+      name: Player2_3
       rect:
         serializedVersion: 2
         x: 251
@@ -370,7 +370,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Players2_4
+      name: Player2_4
       rect:
         serializedVersion: 2
         x: 416
@@ -391,7 +391,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Players2_5
+      name: Player2_5
       rect:
         serializedVersion: 2
         x: 558
@@ -412,7 +412,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Players2_6
+      name: Player2_6
       rect:
         serializedVersion: 2
         x: 657
@@ -433,10 +433,10 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Players2_7
+      name: Player2_7
       rect:
         serializedVersion: 2
-        x: 803
+        x: 804
         y: 21
         width: 141
         height: 193
@@ -454,7 +454,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Players2_8
+      name: Player2_8
       rect:
         serializedVersion: 2
         x: 962
